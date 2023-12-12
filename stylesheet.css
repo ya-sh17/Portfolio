@@ -1,0 +1,66 @@
+.background-container{
+    background-image: url(./asset/mountain.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 90vh;
+    margin-top: 0;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 9rem;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 3rem;
+}
+
+.yimg{
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+
+.hpar{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+}
+
+.row1{
+    display: flex;
+    justify-content: space-around;
+}
+
+h3, .para{
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    text-align: left; 
+}
+
+.gtext{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    background-color: #5FBDFF;
+    font-weight: bold;
+    margin-top: 2rem;
+    margin-bottom: 2rem;;
+}
+
+.foot{
+    background-color: #5FBDFF;
+}
